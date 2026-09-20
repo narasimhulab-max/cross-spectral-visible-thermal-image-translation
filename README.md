@@ -1,1 +1,1 @@
-# CSMC11
+# cross-spectral-visible-thermal-image-translation
